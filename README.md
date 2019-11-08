@@ -6,7 +6,7 @@ This project is to create an NLP web service for restaurants around Hoboken, New
 
 2. Git clone https://github.com/SijieWen/Midterm_Project
 
-3. Download yelpsearch.py and templates folder from Github, save them under same directory
+3. Download yelpsearch.py, templates folder (where html files) and static folder (where image files) from Github, save them under same directory
 
 4. Run yelpsearch.py file in your terminal correctly, using the following command lines:
 ```bash
