@@ -2,7 +2,11 @@
 ## About:
 This project is to create an NLP web service for restaurants around Hoboken, Newport, New York area. There are 6 returned services per input, they are sentimental analysis, translation service, 10 most common adj words, 10 most common noun words, top 10 positive words and top 10 negative words.
 ## Usage
-1. Connect to your AWS firstly
+1. Connect to your AWS firstly, make sure you download every necessary packages. For example:
+```bash
+pip3 install lxml
+python3 -m textblob.download_corpora
+```
 
 2. Git clone https://github.com/SijieWen/Midterm_Project
 
