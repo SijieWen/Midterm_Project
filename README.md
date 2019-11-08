@@ -1,4 +1,3 @@
-# Midterm_Project
 # FE595-Midterm Project (Restaurant NLP Service)
 ## About:
 This project is to create an NLP web service for restaurants around Hoboken, Newport, New York area. There are 6 returned services per input, they are sentimental analysis, translation service, 10 most common adj words, 10 most common noun words, top 10 positive words and top 10 negative words.
