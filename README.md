@@ -18,13 +18,14 @@ Sijie Wen:
 2. Program a function to collect restaurants’ names and business ids using Yelp business fusion API, test use the Yelp Review Search API, prepare for the following steps of building our database 
 
 3. Program the whole function of Flask app, adjust and arrange every member's services into this app as correct format
-Write corresponding HTML files with instructions
 
-4. Create NLP service – translate the reviews of a restaurant into Chinese
+4. Write and beautify design corresponding HTML files with instructions
 
-5. Create NLP service – overall rating based on the sentiment score for a restaurant
+5. Create NLP service – translate the reviews of a restaurant into Chinese
 
-6. Test and debug programs and web services
+6. Create NLP service – overall rating based on the sentiment score for a restaurant
+
+7. Test and debug programs and web services
 
 
 Xiaolu Li:
