@@ -2,25 +2,13 @@
 ## About:
 This project is to create an NLP web service for restaurants around Hoboken, Newport, New York area. There are 6 returned services per input, they are sentimental analysis, translation service, 10 most common adj words, 10 most common noun words, top 10 positive words and top 10 negative words.
 ## Usage
-1. Connect to your AWS firstly, make sure you download every necessary packages. For example:
-```bash
-pip3 install lxml
-python3 -m textblob.download_corpora
-```
+1. We have connectted the whole project on our AWS and keep Flask app alive.
 
-2. Git clone https://github.com/SijieWen/Midterm_Project
+2. Just copy port address (http://18.216.18.200:5000/yelpsearch) into browser.
 
-3. Download yelpsearch.py, templates folder (where html files) and static folder (where image files) from Github, save them under same directory
+3. Follow the instructions, input interested restaurant name and service, click submit
 
-4. Run yelpsearch.py file in your terminal correctly, using the following command lines:
-```bash
-export FLASK_APP=yelpsearch.py
-python -m flask run
-```
-
-5. Copy port address (http://127.0.0.1:5000/) into browser.
-
-6. Follow the instructions, input interested restaurant name and service, click submit
+4. Now you get the service you want.
 
 ## Contribution
 Sijie Wen:
