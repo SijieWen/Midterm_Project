@@ -12,7 +12,7 @@ resturant_name = []
 resturant_id = []
 api_key= "RZMGNepw-0uL71Ur4gG4bCh6gCVFCy5SXZrzV7vJBTYnTu7z6JFf_ZgIQ0DMAl-r9WdOfKzT-vkgm2LCKFZQu-dyY1MzmQnQQARbmqHqJm7irB4LupeKX04lH6W9XXYx"
 headers = {'Authorization': 'Bearer %s' % api_key}
-area =["newyork", "hoboken","newport", "westnewyork","fortlee"]  # limit the area to vicinity
+area =["hoboken"]  # limit the area to vicinity
 url = 'https://api.yelp.com/v3/businesses/search'
 for address in area:
     params = {'term':'dinner','location':address,'limit':50}
