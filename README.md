@@ -4,7 +4,7 @@ This project is to create an NLP web service for restaurants around Hoboken, New
 ## Usage
 1. We have connectted the whole project on our AWS and keep Flask app alive.
 
-2. Just copy port address (http://18.216.18.200:5000/yelpsearch) into browser.
+2. Just copy port address (http://18.216.18.200:5001/yelpsearch) into browser.
 
 3. Follow the instructions, input interested restaurant name and service, click submit
 
